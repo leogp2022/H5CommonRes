@@ -1,6 +1,6 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "PopGamesView_close",
+  "_name": "PopGameView_close",
   "_objFlags": 0,
   "_native": "",
   "_duration": 0.7,

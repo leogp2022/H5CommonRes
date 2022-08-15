@@ -13,7 +13,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "PopGamesItem",
+    "_name": "PopGameItem",
     "_objFlags": 0,
     "_parent": null,
     "_children": [
@@ -43,13 +43,9 @@
       }
     ],
     "_active": true,
-    "_components": [
-      {
-        "__id__": 32
-      }
-    ],
+    "_components": [],
     "_prefab": {
-      "__id__": 33
+      "__id__": 32
     },
     "_opacity": 255,
     "_color": {
@@ -200,7 +196,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "aed2115f-77ee-4cff-b4dc-6d10d4395f5a"
     },
     "fileId": "eeqFokKrJLb6SNJc/c1FM0",
     "sync": false
@@ -307,7 +303,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "aed2115f-77ee-4cff-b4dc-6d10d4395f5a"
     },
     "fileId": "15xwsFpCZOvavIIB8pjhD0",
     "sync": false
@@ -414,7 +410,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "aed2115f-77ee-4cff-b4dc-6d10d4395f5a"
     },
     "fileId": "7ccdG6HqtFFaf/vgbY2Czo",
     "sync": false
@@ -521,7 +517,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "aed2115f-77ee-4cff-b4dc-6d10d4395f5a"
     },
     "fileId": "ccYLRxDiZGwbe4Emkt32lF",
     "sync": false
@@ -560,8 +556,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 0,
-      "height": 0
+      "width": 92,
+      "height": 52
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -581,7 +577,7 @@
         1,
         1,
         1,
-        1
+        0
       ]
     },
     "_eulerAngles": {
@@ -699,7 +695,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "aed2115f-77ee-4cff-b4dc-6d10d4395f5a"
     },
     "fileId": "88dTIAUzRLiIyzw2oniAGy",
     "sync": false
@@ -807,7 +803,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "aed2115f-77ee-4cff-b4dc-6d10d4395f5a"
     },
     "fileId": "4bAyT2Z5ZE1bUmXhwX1aEw",
     "sync": false
@@ -827,8 +823,8 @@
     "clickEvents": [],
     "_N$interactable": true,
     "_N$enableAutoGrayEffect": false,
-    "_N$transition": 0,
-    "transition": 0,
+    "_N$transition": 3,
+    "transition": 3,
     "_N$normalColor": {
       "__type__": "cc.Color",
       "r": 255,
@@ -888,7 +884,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "aed2115f-77ee-4cff-b4dc-6d10d4395f5a"
     },
     "fileId": "79/A+3WsJCfJotQhuwv3Oi",
     "sync": false
@@ -996,7 +992,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "aed2115f-77ee-4cff-b4dc-6d10d4395f5a"
     },
     "fileId": "1941qGckNFZ65aXPlLb1rr",
     "sync": false
@@ -1104,7 +1100,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "aed2115f-77ee-4cff-b4dc-6d10d4395f5a"
     },
     "fileId": "2bGjt4QCBFmbt+OxIuBL2s",
     "sync": false
@@ -1212,80 +1208,10 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "aed2115f-77ee-4cff-b4dc-6d10d4395f5a"
     },
     "fileId": "e5181TLgZEepg58Ra0qCev",
     "sync": false
-  },
-  {
-    "__type__": "cc.Button",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 1
-    },
-    "_enabled": true,
-    "_normalMaterial": null,
-    "_grayMaterial": null,
-    "duration": 0.1,
-    "zoomScale": 1.2,
-    "clickEvents": [],
-    "_N$interactable": true,
-    "_N$enableAutoGrayEffect": false,
-    "_N$transition": 3,
-    "transition": 3,
-    "_N$normalColor": {
-      "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
-      "a": 255
-    },
-    "_N$pressedColor": {
-      "__type__": "cc.Color",
-      "r": 211,
-      "g": 211,
-      "b": 211,
-      "a": 255
-    },
-    "pressedColor": {
-      "__type__": "cc.Color",
-      "r": 211,
-      "g": 211,
-      "b": 211,
-      "a": 255
-    },
-    "_N$hoverColor": {
-      "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
-      "a": 255
-    },
-    "hoverColor": {
-      "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
-      "a": 255
-    },
-    "_N$disabledColor": {
-      "__type__": "cc.Color",
-      "r": 124,
-      "g": 124,
-      "b": 124,
-      "a": 255
-    },
-    "_N$normalSprite": null,
-    "_N$pressedSprite": null,
-    "pressedSprite": null,
-    "_N$hoverSprite": null,
-    "hoverSprite": null,
-    "_N$disabledSprite": null,
-    "_N$target": {
-      "__id__": 1
-    },
-    "_id": ""
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -1293,7 +1219,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "aed2115f-77ee-4cff-b4dc-6d10d4395f5a"
     },
     "fileId": "",
     "sync": false

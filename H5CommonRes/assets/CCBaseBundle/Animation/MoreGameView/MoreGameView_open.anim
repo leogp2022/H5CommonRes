@@ -1,9 +1,9 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "MoreGamesView_idle",
+  "_name": "MoreGameView_open",
   "_objFlags": 0,
   "_native": "",
-  "_duration": 0,
+  "_duration": 0.6666666666666666,
   "sample": 30,
   "speed": 1,
   "wrapMode": 1,
@@ -14,6 +14,10 @@
           "opacity": [
             {
               "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.26666666666666666,
               "value": 200
             }
           ]
@@ -24,6 +28,23 @@
           "position": [
             {
               "frame": 0,
+              "value": [
+                -1500,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": [
+                18.993,
+                0,
+                0
+              ],
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6666666666666666,
               "value": [
                 0,
                 0,
