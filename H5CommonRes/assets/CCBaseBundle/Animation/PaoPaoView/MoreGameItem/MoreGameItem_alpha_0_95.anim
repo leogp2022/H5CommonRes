@@ -9,7 +9,27 @@
   "wrapMode": 1,
   "curveData": {
     "paths": {
-      "icon": {
+      "Root": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "paopao": {
         "props": {
           "opacity": [
             {
@@ -20,29 +40,35 @@
               "frame": 0.5,
               "value": 95
             }
-          ]
-        }
-      },
-      "name": {
-        "props": {
-          "opacity": [
+          ],
+          "scale": [
             {
               "frame": 0,
-              "value": 0
-            },
-            {
-              "frame": 0.5,
-              "value": 95
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
             }
           ]
         }
       },
-      "Glow": {
+      "paopao/Glow": {
         "props": {
           "opacity": [
             {
               "frame": 0,
               "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
             }
           ]
         }

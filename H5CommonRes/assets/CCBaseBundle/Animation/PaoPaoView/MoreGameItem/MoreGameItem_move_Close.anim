@@ -39,22 +39,58 @@
       ]
     },
     "paths": {
-      "name": {
+      "paopao": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "paopao/Glow": {
         "props": {
           "opacity": [
             {
               "frame": 0,
               "value": 0
-            },
+            }
+          ],
+          "scale": [
             {
-              "frame": 0.15,
-              "value": 255
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
             }
           ]
         }
       },
-      "Glow": {
+      "Root": {
         "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ],
           "opacity": [
             {
               "frame": 0,

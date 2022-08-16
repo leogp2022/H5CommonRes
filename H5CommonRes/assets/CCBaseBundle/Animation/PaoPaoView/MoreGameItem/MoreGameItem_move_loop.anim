@@ -1,6 +1,6 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "PaoPaoView_idle",
+  "_name": "MoreGameItem_move_loop",
   "_objFlags": 0,
   "_native": "",
   "_duration": 0,
@@ -8,29 +8,33 @@
   "speed": 1,
   "wrapMode": 1,
   "curveData": {
-    "paths": {
-      "Root": {
-        "props": {
-          "scale": [
-            {
-              "frame": 0,
-              "value": {
-                "__type__": "cc.Vec2",
-                "x": 1,
-                "y": 1
-              }
-            }
-          ],
-          "opacity": [
-            {
-              "frame": 0,
-              "value": 255
-            }
-          ]
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1.25,
+            "y": 1.25
+          }
         }
-      },
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 118.06500000000001
+        }
+      ]
+    },
+    "paths": {
       "paopao": {
         "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            }
+          ],
           "scale": [
             {
               "frame": 0,
@@ -39,12 +43,6 @@
                 "x": 1,
                 "y": 1
               }
-            }
-          ],
-          "opacity": [
-            {
-              "frame": 0,
-              "value": 255
             }
           ]
         }
@@ -65,6 +63,26 @@
                 "x": 0,
                 "y": 0
               }
+            }
+          ]
+        }
+      },
+      "Root": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
             }
           ]
         }
