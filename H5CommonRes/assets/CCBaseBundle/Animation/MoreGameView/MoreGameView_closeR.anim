@@ -1,9 +1,9 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "MoreGameView_open",
+  "_name": "MoreGameView_closeR",
   "_objFlags": 0,
   "_native": "",
-  "_duration": 0.6666666666666666,
+  "_duration": 0.6,
   "sample": 30,
   "speed": 1,
   "wrapMode": 1,
@@ -14,11 +14,11 @@
           "opacity": [
             {
               "frame": 0,
-              "value": 0
+              "value": 200
             },
             {
-              "frame": 0.26666666666666666,
-              "value": 200
+              "frame": 0.6,
+              "value": 0
             }
           ]
         }
@@ -29,24 +29,29 @@
             {
               "frame": 0,
               "value": [
-                -1500,
+                0,
+                0,
+                0
+              ],
+              "curve": [
+                0.6110328638497652,
+                -0.12253521126760547,
+                0.7469483568075116,
+                0.6618544600938966
+              ]
+            },
+            {
+              "frame": 0.2,
+              "value": [
+                -15.338,
                 0,
                 0
               ]
             },
             {
-              "frame": 0.36666666666666664,
+              "frame": 0.5333333333333333,
               "value": [
-                18.993,
-                0,
-                0
-              ],
-              "curve": "linear"
-            },
-            {
-              "frame": 0.6666666666666666,
-              "value": [
-                0,
+                800,
                 0,
                 0
               ]

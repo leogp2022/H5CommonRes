@@ -28,13 +28,10 @@
     "_components": [
       {
         "__id__": 40
-      },
-      {
-        "__id__": 41
       }
     ],
     "_prefab": {
-      "__id__": 42
+      "__id__": 41
     },
     "_opacity": 255,
     "_color": {
@@ -1608,31 +1605,6 @@
     "_isAbsVerticalCenter": true,
     "_originalWidth": 0,
     "_originalHeight": 0,
-    "_id": ""
-  },
-  {
-    "__type__": "cc.Animation",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 1
-    },
-    "_enabled": true,
-    "_defaultClip": {
-      "__uuid__": "cb5108c3-0dbb-4e6f-a9a3-21f2012c6ffc"
-    },
-    "_clips": [
-      {
-        "__uuid__": "cb5108c3-0dbb-4e6f-a9a3-21f2012c6ffc"
-      },
-      {
-        "__uuid__": "7db2792b-f5dc-4511-8270-31c9c129402f"
-      },
-      {
-        "__uuid__": "c353fc83-9997-476e-bc79-db164fb3e7e3"
-      }
-    ],
-    "playOnLoad": false,
     "_id": ""
   },
   {
