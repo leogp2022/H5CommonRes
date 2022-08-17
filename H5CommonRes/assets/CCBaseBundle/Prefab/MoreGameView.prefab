@@ -1618,28 +1618,18 @@
       "__id__": 1
     },
     "_enabled": true,
-    "_defaultClip": null,
+    "_defaultClip": {
+      "__uuid__": "996bb7ab-6324-42a9-b38e-73f22be2f845"
+    },
     "_clips": [
       {
-        "__uuid__": "cb5108c3-0dbb-4e6f-a9a3-21f2012c6ffc"
+        "__uuid__": "996bb7ab-6324-42a9-b38e-73f22be2f845"
       },
       {
-        "__uuid__": "7db2792b-f5dc-4511-8270-31c9c129402f"
-      },
-      {
-        "__uuid__": "c353fc83-9997-476e-bc79-db164fb3e7e3"
-      },
-      {
-        "__uuid__": "cf73d60f-411b-4688-9f85-dcd04c4d4a9b"
-      },
-      {
-        "__uuid__": "d8a04a11-79a3-44d6-a90a-cde132be3227"
-      },
-      {
-        "__uuid__": "e2358ef8-9a84-404d-b1c7-3322f10e6fcb"
+        "__uuid__": "ce1b7209-8ab8-43d8-9898-a0cbd416c8fb"
       }
     ],
-    "playOnLoad": false,
+    "playOnLoad": true,
     "_id": ""
   },
   {
