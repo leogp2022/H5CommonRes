@@ -1,6 +1,6 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "MoreGameItem_alpha_0_100",
+  "_name": "PaoPaoView_alpha_0_100",
   "_objFlags": 0,
   "_native": "",
   "_duration": 0.4,
@@ -28,26 +28,6 @@
                 "__type__": "cc.Vec2",
                 "x": 1,
                 "y": 1
-              }
-            }
-          ]
-        }
-      },
-      "paopao/Glow": {
-        "props": {
-          "opacity": [
-            {
-              "frame": 0,
-              "value": 0
-            }
-          ],
-          "scale": [
-            {
-              "frame": 0,
-              "value": {
-                "__type__": "cc.Vec2",
-                "x": 0,
-                "y": 0
               }
             }
           ]

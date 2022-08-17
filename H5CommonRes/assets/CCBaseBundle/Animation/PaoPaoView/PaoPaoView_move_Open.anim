@@ -1,6 +1,6 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "MoreGameItem_move_Open",
+  "_name": "PaoPaoView_move_Open",
   "_objFlags": 0,
   "_native": "",
   "_duration": 0.11666666666666667,
@@ -54,26 +54,6 @@
                 "__type__": "cc.Vec2",
                 "x": 1,
                 "y": 1
-              }
-            }
-          ]
-        }
-      },
-      "paopao/Glow": {
-        "props": {
-          "opacity": [
-            {
-              "frame": 0,
-              "value": 0
-            }
-          ],
-          "scale": [
-            {
-              "frame": 0,
-              "value": {
-                "__type__": "cc.Vec2",
-                "x": 0,
-                "y": 0
               }
             }
           ]

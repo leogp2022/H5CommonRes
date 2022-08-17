@@ -1,79 +1,14 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "MoreGameItem_alpha_100_0",
+  "_name": "PaoPaoView_alpha_100_0",
   "_objFlags": 0,
   "_native": "",
-  "_duration": 0.3,
+  "_duration": 0,
   "sample": 30,
   "speed": 1,
   "wrapMode": 1,
   "curveData": {
-    "paths": {
-      "paopao": {
-        "props": {
-          "opacity": [
-            {
-              "frame": 0,
-              "value": 255
-            },
-            {
-              "frame": 0.3,
-              "value": 0
-            }
-          ],
-          "scale": [
-            {
-              "frame": 0,
-              "value": {
-                "__type__": "cc.Vec2",
-                "x": 1,
-                "y": 1
-              }
-            }
-          ]
-        }
-      },
-      "paopao/Glow": {
-        "props": {
-          "opacity": [
-            {
-              "frame": 0,
-              "value": 0
-            }
-          ],
-          "scale": [
-            {
-              "frame": 0,
-              "value": {
-                "__type__": "cc.Vec2",
-                "x": 0,
-                "y": 0
-              }
-            }
-          ]
-        }
-      },
-      "Root": {
-        "props": {
-          "scale": [
-            {
-              "frame": 0,
-              "value": {
-                "__type__": "cc.Vec2",
-                "x": 0,
-                "y": 0
-              }
-            }
-          ],
-          "opacity": [
-            {
-              "frame": 0,
-              "value": 0
-            }
-          ]
-        }
-      }
-    }
+    "paths": {}
   },
   "events": []
 }
