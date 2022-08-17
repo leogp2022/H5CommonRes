@@ -58,8 +58,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        384,
-        682.5,
+        0,
+        0,
         0,
         0,
         0,
@@ -1292,20 +1292,20 @@
     },
     "_enabled": true,
     "_defaultClip": {
-      "__uuid__": "998e088c-96c1-4b16-a878-0a14c6fa895c"
+      "__uuid__": "cb5108c3-0dbb-4e6f-a9a3-21f2012c6ffc"
     },
     "_clips": [
       {
-        "__uuid__": "998e088c-96c1-4b16-a878-0a14c6fa895c"
+        "__uuid__": "cb5108c3-0dbb-4e6f-a9a3-21f2012c6ffc"
       },
       {
-        "__uuid__": "263ce7dd-e0ad-45c2-971b-fbdf48ff669f"
+        "__uuid__": "cf73d60f-411b-4688-9f85-dcd04c4d4a9b"
       },
       {
-        "__uuid__": "1e79a38f-63d9-4229-989e-0407d87bb4c1"
+        "__uuid__": "c353fc83-9997-476e-bc79-db164fb3e7e3"
       },
       {
-        "__uuid__": "26ac69e5-b9e7-4a01-be9e-6c5a73ad94f7"
+        "__uuid__": "e2358ef8-9a84-404d-b1c7-3322f10e6fcb"
       }
     ],
     "playOnLoad": false,
