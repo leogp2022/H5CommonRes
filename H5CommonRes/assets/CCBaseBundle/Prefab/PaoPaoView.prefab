@@ -546,8 +546,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 127.14,
-      "height": 25.2
+      "width": 130,
+      "height": 25
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -598,8 +598,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "More Games",
-    "_N$string": "More Games",
+    "_string": "More Good Games",
+    "_N$string": "More Good Games",
     "_fontSize": 22,
     "_lineHeight": 20,
     "_enableWrapText": true,
@@ -612,7 +612,7 @@
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
     "_N$fontFamily": "Arial",
-    "_N$overflow": 0,
+    "_N$overflow": 2,
     "_N$cacheMode": 0,
     "_id": ""
   },
