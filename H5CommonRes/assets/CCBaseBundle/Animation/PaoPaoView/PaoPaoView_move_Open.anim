@@ -36,49 +36,15 @@
           "frame": 0.11666666666666667,
           "value": 118.06500000000001
         }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        }
       ]
     },
     "paths": {
-      "paopao": {
-        "props": {
-          "opacity": [
-            {
-              "frame": 0,
-              "value": 255
-            }
-          ],
-          "scale": [
-            {
-              "frame": 0,
-              "value": {
-                "__type__": "cc.Vec2",
-                "x": 1,
-                "y": 1
-              }
-            }
-          ]
-        }
-      },
-      "Root": {
-        "props": {
-          "scale": [
-            {
-              "frame": 0,
-              "value": {
-                "__type__": "cc.Vec2",
-                "x": 0,
-                "y": 0
-              }
-            }
-          ],
-          "opacity": [
-            {
-              "frame": 0,
-              "value": 0
-            }
-          ]
-        }
-      }
     }
   },
   "events": []
