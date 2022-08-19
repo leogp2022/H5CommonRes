@@ -700,7 +700,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 130,
-      "height": 25
+      "height": 37
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -751,8 +751,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "More Good Games",
-    "_N$string": "More Good Games",
+    "_string": "More games",
+    "_N$string": "More games",
     "_fontSize": 22,
     "_lineHeight": 20,
     "_enableWrapText": true,
